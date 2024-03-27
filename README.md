@@ -77,7 +77,7 @@ Module 4: Introduction to Git and GitHub
 Course 4 &5 : Machine learning
 
 ## Contact
-Created by: Amit Ranjan [@AmitwaytoDS] https://github.com/AmitwaytoDS/LedingClubCaseStudy - feel free to contact me!
+Created by: Amit Ranjan [@AmitwaytoDS] https://github.com/AmitwaytoDS/Advance_Regression_House_Price_Prediction - feel free to contact me!
 
 
 <!-- Optional -->
