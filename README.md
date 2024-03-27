@@ -1,4 +1,4 @@
-# House Price PRediction
+# House Price Prediction
 The project on House Price Prediction for Surprise Housing, a US-based company entering the Australian market, involves building a regression model to predict the actual value of prospective properties. This model is crucial for the company's strategy to purchase houses at a price below their actual values and sell them at a higher price. The dataset provided contains information on the sale of houses in Australia, which will be used to train the model.
 
 
